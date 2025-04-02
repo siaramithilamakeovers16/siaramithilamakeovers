@@ -12,11 +12,11 @@ Our goal is to help everyone achieve their best look.
 - Skincare & Beauty Consultation  
 
 ## Follow Us  
-- **Instagram:** [@siaramithilamakeovers16](#)  
-- **Facebook:** [Siara Mithila Makeovers16](#)  
-- **Website:** [www.siara-mithila-makeovers16.com](#)
-- ××youtube:×××
-- siaramithilamakeovers16 
+- **Instagram:** [@siaramithilamakeovers](#)  
+- **Facebook:** [Siara Mithila Makeovers](#)  
+- **Website:** [www.siara-mithila-makeovers.com](#)
+- ## Follow Us  
+- **YouTube:** [Siara Mithila Makeovers](https://www.youtube.com/@siaramithilamakeovers16)
 
 ## How to Use This Repository?  
 This repository is for our website and digital content.  
